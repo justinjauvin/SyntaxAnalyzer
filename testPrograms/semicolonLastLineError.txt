@@ -1,0 +1,9 @@
+program
+begin
+
+var3 = var1 + var2;
+
+if (sum1 < sum2) then
+         var4 = sum2 - sum1;
+
+end
